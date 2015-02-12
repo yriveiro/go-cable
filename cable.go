@@ -10,6 +10,10 @@ import (
 	"strings"
 )
 
+// VERSION constant represents the current Cable version in
+// "major.minor.release" notation.
+const VERSION = "0.0.1"
+
 // CRLF constant represents the End-of-Line sequence.
 const CRLF = "\r\n"
 
